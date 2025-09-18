@@ -63,9 +63,9 @@ Documents/Projects.
 4. Clona el repositorio: Una vez en la carpeta deseada, ejecuta el siguiente comando, pegando la URL
 que copiaste:
 1. git clone [(https://github.com/OmarOrtVal/ODOV-Mi-PrimerProyecto-Prepa.git)]
-(Ejemplo: git clone https://github.com/tu-usuario/mi-primer-proyecto-prepa.git). Este comando
-descargará una copia completa de tu repositorio (incluyendo el README.md) en una nueva carpeta
-con el nombre de tu repositorio.
+(Ejemplo: git clone https://github.com/tu-usuario/mi-primer-proyecto-prepa.git). 
+Este comando descargará una copia completa de tu repositorio (incluyendo el README.md) en una
+nueva carpeta con el nombre de tu repositorio.
 1. Entra a la carpeta del proyecto:
 2. cd mi-primer-proyecto-prepa
 
