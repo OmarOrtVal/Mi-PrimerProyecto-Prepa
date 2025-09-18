@@ -3,7 +3,7 @@
 Sigue estos pasos cuidadosamente:
 
 ## Paso 1: Crea tu cuenta de GitHub
-1. Ve al sitio web: Abre tu navegador y visita GitHub.com.
+1. Ve al sitio web: Abre tu navegador y visita [GitHub.com.](https://github.com/)
 2. Regístrate: Busca y haz clic en el botón "Sign up" o "Registrarse".
 3. Completa la información: Te pedirá un correo electrónico, una contraseña y un nombre de usuario.
 o Consejo importante: Elige un nombre de usuario profesional (ej. tu nombre y apellido, o
@@ -14,7 +14,7 @@ una variación) porque será público y te representará en la comunidad de desa
 
 ## Paso 2: Instala y configura Git en tu computadora
 Git es la herramienta que te permitirá interactuar con GitHub desde tu computadora.
-1. Descarga Git: Ve a git-scm.com/downloads y descarga el instalador para tu sistema operativo
+1. Descarga Git: Ve a [ git-scm.com/downloads](https://git-scm.com/) y descarga el instalador para tu sistema operativo
 (Windows, macOS o Linux).
 2. Instala Git: Ejecuta el instalador y sigue los pasos. En la mayoría de los casos, puedes dejar las
 opciones predeterminadas.
@@ -62,7 +62,7 @@ hay un icono para copiar al portapapeles).
 Documents/Projects.
 4. Clona el repositorio: Una vez en la carpeta deseada, ejecuta el siguiente comando, pegando la URL
 que copiaste:
-5. git clone [PEGA_AQUÍ_LA_URL_HTTPS_DE_TU_REPOSITORIO]
+5. git clone [[PEGA_AQUÍ_LA_URL_HTTPS_DE_TU_REPOSITORIO](https://github.com/OmarOrtVal/ODOV-Mi-PrimerProyecto-Prepa.git)]
 (Ejemplo: git clone https://github.com/tu-usuario/mi-primer-proyecto-prepa.git). Este comando
 descargará una copia completa de tu repositorio (incluyendo el README.md) en una nueva carpeta
 con el nombre de tu repositorio.
